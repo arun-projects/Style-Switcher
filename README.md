@@ -6,17 +6,17 @@
 ##### Change Red:
 
 - On click change the div below to a red background.
-- You will want to reference the [style property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style).
+- You will want to reference the [setAttribute method](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute).
 
 ##### Change Green:
 
 - On click change the div below to a green background.
-- You will want to reference the [style property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style).
+- You will want to reference the [setAttribute method](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute).
 
 ##### Change Blue:
 
 - On click change the div below to a blue background.
-- You will want to reference the [style property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style).
+- You will want to reference the [setAttribute method](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute).
 
 ##### Make Big:
 
